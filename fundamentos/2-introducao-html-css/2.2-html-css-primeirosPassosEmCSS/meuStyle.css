@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <meta charset="UTF-8">
-    <title>HTML</title>
-    <link rel="stylesheet" type="text/css" href="meuStyle.css">
-    <style>
-        /*h1{
+<style>
+        h1{
             font-family: sans-serif;
         }
         p{
@@ -29,16 +23,6 @@
         }
         #b{
             background-color: brown;
-        }*/
+        }
+
     </style>
-  </head>
-  <body>
-    <h1>Cores</h1>
-    <p>Qual é a sua cor favorita?</p>
-    <ul>
-      <li id="y">Amarelo</li>
-      <li id="r">Vermelho</li>
-      <li id="b">Marrom</li>
-    </ul>
-  </body>
-</html>
