@@ -1,0 +1,37 @@
+div:hover{
+    border: 5px solid purple;
+    font-size: 100%;
+}
+#div1{
+    background-color: aqua;
+}
+#div2{
+    background-color: aquamarine;
+}
+#div3{
+    background-color: rgb(99, 207, 96);
+    font-size: 150%;
+}
+#div4{
+    background-color: rgb(139, 109, 187);
+}
+#div5{
+    background-color: antiquewhite;
+}
+#h3-1{
+    font-style: italic;
+}
+#h3-2{
+    font-size: 80%;
+}
+#h3-3{
+    font-variant: small-caps;
+    font-style: italic;
+}
+#h3-4{
+    text-decoration: underline;
+}
+#h3-5{
+    text-decoration:line-through;
+    font-style: italic;
+}
